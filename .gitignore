@@ -1,0 +1,5 @@
+vendor/
+*.py
+.idea
+*.phps
+composer.lock
